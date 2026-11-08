@@ -1,0 +1,18 @@
+README.org
+  h_9df9c32c3f321d 21-24
+src/package.lisp
+  h_9df9c32c3f321d 30-39
+tests/message-tests.lisp
+  h_9df9c32c3f321d 177-190,195
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9ff0a250c8779267b38c9818f4fc0f4eac5522bc",
+  "prompts": {},
+  "humans": {
+    "h_9df9c32c3f321d": {
+      "author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
